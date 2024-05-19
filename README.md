@@ -10,9 +10,9 @@ At the end of this line, I will add two spaces. Again, as claimed by the instruc
 
 ## Current Projects
 
-* Hello World: Java console application
+* [Hello World: Java console application] (https://github.com/cwolf1212/cwolf1212.github.io)
       
-* Hello World: Android app
+* [Hello World: Android app] (https://github.com/ddc-java-18/hello-world-cwolf1212)
 
 ## Links
 
