@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I'm learning Java andmany other products I've never heard of. This looks to be a busy bootcamp.
+I'm learning Java and many other products I've never heard of. This looks to be a busy bootcamp.
 
 Right before this line, I hit the ENTER key twice. The instructions claim that this will provide a praragraph break.
 
