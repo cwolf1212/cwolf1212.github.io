@@ -15,3 +15,5 @@ At the end of this line, I will add two spaces. Again, as claimed by the instruc
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/clint-wolf-2166007b/)
