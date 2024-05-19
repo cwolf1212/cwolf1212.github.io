@@ -10,4 +10,8 @@ At the end of this line, I will add two spaces. Again, as claimed by the instruc
 
 ## Current Projects
 
+* Hello World: Java console application
+      
+* Hello World: Android app
+
 ## Links
