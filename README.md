@@ -17,3 +17,8 @@ At the end of this line, I will add two spaces. Again, as claimed by the instruc
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/clint-wolf-2166007b/)
+
+> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+> 
+> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
+ 
